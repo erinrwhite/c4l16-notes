@@ -24,6 +24,38 @@ Design ethics: it's a thing
 
 ## Constructive disintegration -- re-imagining the library platform as microservices
 
-
+http://futureisopen.org
 
 ## Transcending Traditional Systems and Labels: An API-First Archives Approach at NPR
+
+[@NPR_RAD](http://twitter.com/npr_rad)
+
+Artemis database - open source software, metadata for shows. API-first approach
+
+Data model "Trapper Keeper"
+
+Angular tools: Yeoman and Jenkins for automation
+
+Every application state stored in the URL, has been so valuable
+
+Proxy API in front of real API for authentication, bulk updates, user preferences
+
+Lessons learned: MySQL to NoSQL requires a LOT of HTTP calls; API-first meant front end changes were a lot faster; documentation is key; managing expectations with users is challenging
+
+
+## Building Desktop Applications using Web Technologies with Electron
+
+## Beyond the Bento Box: Using linked data and smart algorithms to integrate repository data in context
+
+## What does it take to get a job these days? Analyzing jobs.code4lib.org data to understand current technology skillsets
+
+## Building a user-friendly authorities browse in Blacklight
+
+## Making new discoveries from old data: Utilizing digital scholarship to foster new research in Special Collections
+
+http://goo.gl/smvkvf
+
+## Curate my web crawl: Building a multiprocessing web crawler for ethnographic research
+
+Python, Django framework
+
