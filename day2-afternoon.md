@@ -45,6 +45,8 @@ Lessons learned: MySQL to NoSQL requires a LOT of HTTP calls; API-first meant fr
 
 ## Building Desktop Applications using Web Technologies with Electron
 
+http://ronallo.com/presentations/c4l16/
+
 ## Beyond the Bento Box: Using linked data and smart algorithms to integrate repository data in context
 
 ## What does it take to get a job these days? Analyzing jobs.code4lib.org data to understand current technology skillsets
